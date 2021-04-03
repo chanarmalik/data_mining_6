@@ -1,2 +1,3 @@
 # data_mining_6
-Tugas 3 
+tugas 3
+kuis (pertemuan 5)
